@@ -36,6 +36,7 @@ group :development, :test do
   gem 'sqlite3'
   gem 'web-console'
   gem 'spring'
+  gem 'guard'
 end
 
 group :test do
